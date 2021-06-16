@@ -18,3 +18,9 @@
     align-items: center;
     height: 4em;
   }
+
+.Boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
